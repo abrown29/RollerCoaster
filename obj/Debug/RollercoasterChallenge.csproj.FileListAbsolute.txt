@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RollercoasterChallenge\RollercoasterChallenge\bin\Debug\RollercoasterChallenge.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RollercoasterChallenge\RollercoasterChallenge\bin\Debug\RollercoasterChallenge.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RollercoasterChallenge\RollercoasterChallenge\bin\Debug\RollercoasterChallenge.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RollercoasterChallenge\RollercoasterChallenge\obj\Debug\RollercoasterChallenge.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RollercoasterChallenge\RollercoasterChallenge\obj\Debug\RollercoasterChallenge.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\RollercoasterChallenge\RollercoasterChallenge\obj\Debug\RollercoasterChallenge.pdb
